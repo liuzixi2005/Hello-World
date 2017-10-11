@@ -28,6 +28,6 @@ begin
 ```
 
 ```py
-Python
+Python:
 print("Hello World")
 ```
